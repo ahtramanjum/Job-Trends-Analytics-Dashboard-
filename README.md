@@ -71,7 +71,7 @@ It simulates the kind of analysis that might be useful for career counseling cen
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./https://github.com/ahtramanjum/Job-Trends-Analytics-Dashboard-/blob/main/Job%20Trends%20Analytics%20Dashboard.pdf)
+![Dashboard Screenshot](https://github.com/ahtramanjum/Job-Trends-Analytics-Dashboard-/blob/main/Job%20Trends%20Analytics%20Dashboard.pdf)
 
 
 
